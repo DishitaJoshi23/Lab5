@@ -2,6 +2,7 @@
 Group Members: Dishita Joshi, Stephanie Chung
 
 link to expose: https://dishitajoshi23.github.io/Lab5/expose.html
+
 link to explore: https://dishitajoshi23.github.io/Lab5/explore.html
 
 ___
